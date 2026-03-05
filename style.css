@@ -1,0 +1,38 @@
+table{width: 100%;height: 100vh;}
+
+.elemento{outline:auto;}
+
+td{text-align: center;width: 5%;height: 10vh;}
+
+div{text-align: left;}
+
+.naoMetais{background-color: lightgreen;}
+
+.Alcalino{background-color: orange;}
+
+.AlcalinoTerroso{background-color:gold;}
+
+.OutrosMetais{background-color: rgb(154, 199, 184);}
+
+.MetaisTransicao{background-color: pink;}
+
+.semiMetais{background-color: lightseagreen;}
+
+.GasesNobres{background-color: rgb(92, 145, 179);}
+
+.Halogenios{background-color: rgb(157, 214, 250);}
+
+.paralelo2{text-align: right;}
+
+*{margin: 0;}
+.setas{
+    position: absolute;
+    right: 1575px;
+}
+.setas1{
+    position: absolute;
+    right: 1555px;
+}
+.Actinidios{
+background-color: rgb(220, 182, 255);
+}
